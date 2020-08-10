@@ -4,5 +4,5 @@ function doToElementsInArray() {
 
 
 function changeCompletely() {
-  
+
 }
